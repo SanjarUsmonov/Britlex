@@ -39,7 +39,7 @@
     background-color:#fff ;
     border: none;
     transition: 0.4s;
-    box-shadow: 1px 1px 15px #333;
+    box-shadow: 1px 1px 8px #333;
 }
 
 .main1{
@@ -86,7 +86,7 @@
     color: #fff;
     background-color:#263238 ;
     transition: 0.4s;
-    box-shadow: 1px 1px 15px #333;
+    box-shadow: 1px 1px 8px #333;
 }
 
 .main2{
@@ -193,7 +193,7 @@ h3{
     background-color:#fff ;
     border: none;
     transition: 0.4s;
-    box-shadow: 1px 1px 15px #333;
+    box-shadow: 1px 1px 8px #333;
 }
 
 .btn5{
@@ -211,7 +211,7 @@ h3{
     background-color:#fff ;
     border: none;
     transition: 0.4s;
-    box-shadow: 1px 1px 15px #333;
+    box-shadow: 1px 1px 8px #333;
 }
 
 .speak{
@@ -368,7 +368,7 @@ input{
     background-color:#fff ;
     border: none;
     transition: 0.4s;
-    box-shadow: 1px 1px 15px #333;
+    box-shadow: 1px 1px 8px #333;
 }
 
 .main7{
