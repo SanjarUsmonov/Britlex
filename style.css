@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    max-width: 1350px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.main1{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.listen{
+    width: 661px;
+    height: 661px;
+}
+
+h2{
+    text-align: center;
+}
+
+.main3{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.speak{
+    width: 435px;
+    height: 895px;
+}
+
+.spk{
+    width: 390px;
+    height: 390px;
+}
+
+.write{
+    width: 435px;
+    height: 531px;
+}
+
+.wrt{
+    width: 293px;
+    height: 293px;
+}
+
+.read{
+    width: 435px;
+    height: 531px;
+}
+
+.red{
+    width: 371px;
+    height: 247px;
+}
+
+.audio{
+    width: 382px;
+    height: 255px;
+}
+
+.listen{
+    position: relative;
+    margin-top: -500px;
+    width: 885px;
+    height: 343px;
+    display: flex;
+    align-items: center;
+}
